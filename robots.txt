@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://junksn.hitweb114.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
